@@ -21,7 +21,7 @@ const Apps = () => {
 
     return (
     <div className="mx-auto text-center pt-12 max-w-screen-lg ">
-        <h3 className=" text-3xl md:text-4xl lg:text-5xl font-bold text-cyan-700 ">What's New</h3>
+        <h3 className=" text-3xl md:text-4xl lg:text-5xl font-bold text-cyan-700 ">What&apos;s New</h3>
     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 py-10 h-auto">
         
 {
