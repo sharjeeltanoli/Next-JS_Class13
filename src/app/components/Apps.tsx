@@ -9,13 +9,13 @@ const Apps = () => {
             icons:<Image src={TV} alt="apple tv icon"/>,
             title: "Apple TV+",
             description: "3 free months of original films and series."},
-        {   icons:<Image src={Arcade} alt="apple tv icon"/>,
+        {   icons:<Image src={Arcade} alt="apple arcade icon"/>,
             title: "Apple Arcade",
             description: "3 free months of incredibly fun, uninterrupted gameplay."},
-        {   icons:<Image src={Fitness} alt="apple tv icon"/>,
+        {   icons:<Image src={Fitness} alt="apple fitness icon"/>,
             title: "Apple Fitness+",
             description: "3 free months of workouts, from HIIT to Meditation."},
-        {   icons:<Image src={News} alt="apple tv icon"/>,
+        {   icons:<Image src={News} alt="apple news icon"/>,
             title: "Apple News+",
             description: "3 free months of top stories from leading publications.",}, ]
 
