@@ -1,7 +1,7 @@
 import Image from "next/image"
 import Fitness from "/public/fitness.jpeg"
 import Arcade from "/public/arcade.jpeg"
-import TV from "/public/fitness.jpeg"
+import TV from "/public/tv.jpeg"
 import News from "/public/news.jpeg"
 const Apps = () => {
     const apps = [
